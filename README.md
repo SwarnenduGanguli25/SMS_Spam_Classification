@@ -1,2 +1,2 @@
 # SMS_Spam_Classification
-SMS_Spam_Classification uses Natural Language Processing techniques of text preprocessing, feature engineering and TF-IDF vectorizer to classify SMS into spams and hams. It uses random forest ensemble to create a ML model.
+SMS_Spam_Classification uses Natural Language Processing techniques of text preprocessing(noise removal, tokenization & stemmation), feature engineering and TF-IDF vectorizer to classify SMS into spams and hams. It uses Gaussian Naive Bayes, Logistics Regression, XGBoost, Random Forest ensemble & rbf kernel SVM to create ML models and check the accuracy for each model created.
